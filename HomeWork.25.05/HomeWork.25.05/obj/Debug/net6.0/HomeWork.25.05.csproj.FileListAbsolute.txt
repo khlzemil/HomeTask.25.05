@@ -1,0 +1,30 @@
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\bin\Debug\net6.0\HomeWork.25.05.exe
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\bin\Debug\net6.0\HomeWork.25.05.deps.json
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\bin\Debug\net6.0\HomeWork.25.05.runtimeconfig.json
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\bin\Debug\net6.0\HomeWork.25.05.dll
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\bin\Debug\net6.0\HomeWork.25.05.pdb
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.AssemblyInfo.cs
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.dll
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\refint\HomeWork.25.05.dll
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.pdb
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.genruntimeconfig.cache
+C:\Users\hp\Desktop\HomeTask\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\ref\HomeWork.25.05.dll
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\bin\Debug\net6.0\HomeWork.25.05.exe
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\bin\Debug\net6.0\HomeWork.25.05.deps.json
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\bin\Debug\net6.0\HomeWork.25.05.runtimeconfig.json
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\bin\Debug\net6.0\HomeWork.25.05.dll
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\bin\Debug\net6.0\HomeWork.25.05.pdb
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.AssemblyInfo.cs
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.dll
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\refint\HomeWork.25.05.dll
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.pdb
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\HomeWork.25.05.genruntimeconfig.cache
+C:\Users\hp\Desktop\HomeTask.25.05-main (1)\HomeTask.25.05-main\HomeWork.25.05\HomeWork.25.05\obj\Debug\net6.0\ref\HomeWork.25.05.dll
